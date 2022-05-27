@@ -11,7 +11,7 @@
 
 <body>
   <footer>
-    <p>&copy; 2022, Informatika, Universitas Pelita Bangsa</p>
+    <p class="footer">&copy; 2022, Informatika, Universitas Pelita Bangsa</p>
   </footer>
 </body>
 
